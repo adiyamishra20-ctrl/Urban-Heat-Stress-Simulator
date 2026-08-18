@@ -1,0 +1,7 @@
+Validation run (random_state=42)
+R2: 0.967
+MAE: 2.257
+RMSE: 2.834
+Train neighborhoods: 96
+Test neighborhoods: 25
+Combined scenario mean-risk reduction: 18.6%
