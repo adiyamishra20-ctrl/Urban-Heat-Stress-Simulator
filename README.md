@@ -2,6 +2,10 @@
 
 An interactive digital-twin-inspired simulator for analyzing neighborhood heat risk and testing urban mitigation strategies across Mumbai’s 227 electoral wards.
 
+## Live Demo
+
+[Launch the Mumbai Urban Heat Stress Simulator](https://urban-heat-stress-simulator-2zorwkacmsbyvutac7na4k.streamlit.app/)
+
 ## Project Overview
 
 This project combines geospatial analysis, satellite observations, weather data, and machine learning to estimate heat risk across Mumbai.
